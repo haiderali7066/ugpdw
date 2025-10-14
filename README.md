@@ -60,11 +60,7 @@
 
 ---
 
-<p align="center">
-  <img src="aibanner.jpg" alt="AI Banner Bottom" width="100%">
-</p>
 
----
 
 ⭐ **Thanks for visiting my profile!**  
 I’m open to collaborations, research projects, and innovative AI-driven ideas.
