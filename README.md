@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="aibanner.jpg" alt="AI Developer Banner" width="100%">
+  <img src="aibannercut.jpg" alt="AI Developer Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm a Professional Developer based in Zürich, Switzerland</h1>
@@ -61,7 +61,7 @@
 ---
 
 <p align="center">
-  <img src="aibannercut.jpg" alt="AI Banner Bottom" width="100%">
+  <img src="aibanner.jpg" alt="AI Banner Bottom" width="100%">
 </p>
 
 ---
