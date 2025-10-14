@@ -55,7 +55,7 @@
 
 ## 🖼️ AI Agent Use Case
 <p align="center">
-  <img src="AIAgentUseCase[1].jpg" alt="AI Agent Use Case" width="80%">
+  <img src="AIAgentUseCase.jpg" alt="AI Agent Use Case" width="80%">
 </p>
 
 ---
