@@ -1,68 +1,78 @@
-<h1 align="center">Hi 👋, I'm HR Makeina</h1>
-<h3 align="center">AI Engineer | Edge Computing Enthusiast | Cloud Architect</h3>
-
+<!-- Profile Banner -->
 <p align="center">
-  <img src="aibanner.jpg" alt="AI Banner" width="100%" />
+  <img src="aibanner.jpg" alt="AI Developer Banner" width="100%">
+</p>
+
+<h1 align="center">👋 Hi, I'm a Professional Developer based in Zürich, Switzerland</h1>
+
+---
+
+### 🔭 Currently Planning My Next Projects
+📫 How to reach me: **+41 44 589 7012**
+
+---
+
+## 🏆 Key Achievements
+- Led a team of 10 in the **AutoCarE Street Sweeper Project**, advancing SLAM, motion planning, and navigation.  
+- Designed and integrated motion planning & perception in autonomous vehicles; managed **live test drives**.  
+- Built **embedded/adaptive AUTOSAR software** with fail-safe and **Kubernetes-based real-time architectures**.  
+- Taught **Applied Mechanics** to 100+ students, enhancing communication and mentoring skills.  
+
+---
+
+## 🧠 Skills & Expertise
+**Core Skills**  
+> Continuous Integration/Deployment (CI/CD), Docker, Kubernetes, Terraform, Ansible, CloudFormation,  
+> AWS, Azure, Google Cloud Platform (GCP), Linux/Unix Administration, Scripting (Python, Bash, Shell, PowerShell),  
+> Git, Jenkins, GitLab CI, Bamboo, Prometheus, Grafana, ELK Stack, Datadog, Chef, Puppet, SaltStack,  
+> Microservices & API Management, Networking, Security, Agile, Scrum, Automated Testing, and Cloud-Native Development.
+
+---
+
+## 💻 Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,bash,cpp,cs,python,pytorch,java,javascript,nodejs,php,go,rust,mysql,postgresql,mongodb,sqlite,redis,git,linux,docker,kubernetes,terraform,grafana,prometheus,jenkins,figma,tailwind&perline=10" />
 </p>
 
 ---
 
-### 🚀 About Me
-I’m passionate about developing cutting-edge AI systems that bridge the gap between research and real-world applications. My focus areas include:
-- Artificial Intelligence & Machine Learning  
-- Edge Computing  
-- Cloud Infrastructure & MLOps  
-- Scalable AI Systems using **PyTorch**, **TensorFlow**, and **GCP**
-
----
-
-### 🧠 Tech Stack & Tools
-
+## 💡 Edge Computing
+**NVIDIA Jetson Thor**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,gcp,aws,azure,docker,kubernetes,linux,github,git,vscode" />
+  <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/autonomous-machines/embedded-systems/jetson-thor/jetson-thor-bm-l580-d.jpg" alt="NVIDIA Jetson Thor" width="80%">
 </p>
 
 ---
 
-### 🌍 Edge Computing
-
-<p align="center">
-  <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/autonomous-machines/embedded-systems/jetson-thor/jetson-thor-bm-l580-d.jpg" width="600px" alt="NVIDIA Jetson Thor" />
-</p>
-
-> Exploring high-performance AI at the edge with **NVIDIA Jetson Thor** and low-latency cloud-edge integration.
+## 📚 Papers and Talks
+- **Artificial Intelligence (2022):** Optimization of a Semi-Supervised Deep Learning Object Detection Algorithm  
+- **GenAI Zürich 2024:** Connecting GenAI with Existing Systems  
+- **GenAI Zürich 2025:** AI Developer Workshop  
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HRMakeina&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HRMakeina&theme=tokyonight" alt="GitHub Streak" height="165" />
-</p>
+## 🧾 Certifications
+- **Secure and Responsible Gen AI with GuardRails**
 
 ---
 
-### 🏆 Featured Projects
-
-- 🧩 **AI-Powered Vision System** – Real-time object detection for robotics.  
-- ☁️ **GCP MLOps Pipeline** – End-to-end machine learning workflow deployment.  
-- 🧠 **Edge AI Controller** – Optimized inference model for Jetson devices.
+## 🧩 References
+**Eric** → [Video Reference](https://example.video.com/)
 
 ---
 
-### 📫 Connect With Me
-
+## 🖼️ AI Agent Use Case
 <p align="center">
-  <a href="https://linkedin.com/in/hrmakeina" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/HRMakeina" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:hrmakeina@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <img src="AIAgentUseCase[1].jpg" alt="AI Agent Use Case" width="80%">
 </p>
 
 ---
 
 <p align="center">
-  <img src="aibannercut.jpg" alt="AI Banner Cut" width="80%" />
+  <img src="aibannercut.jpg" alt="AI Banner Bottom" width="100%">
 </p>
 
-<p align="center">✨ Designed & Built with Markdown by <b>Haider Ali</b></p>
+---
+
+⭐ **Thanks for visiting my profile!**  
+I’m open to collaborations, research projects, and innovative AI-driven ideas.
