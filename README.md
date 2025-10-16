@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="aibanner.jpg" alt="AI Developer Banner" width="100%">
+  <img src="aibannercut.jpg" alt="AI Developer Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm a Professional Developer based in Zürich, Switzerland</h1>
@@ -63,16 +63,11 @@
 
 ## 🖼️ AI Agent Use Case
 <p align="center">
-  <img src="AIAgentUseCase[1].jpg" alt="AI Agent Use Case" width="80%">
+  <img src="AIAgentUseCase.jpg" alt="AI Agent Use Case" width="80%">
 </p>
 
 ---
 
-<p align="center">
-  <img src="aibannercut.jpg" alt="AI Banner Bottom" width="100%">
-</p>
-
----
 
 ⭐ **Thanks for visiting my profile!**  
 I’m open to collaborations, research projects, and innovative AI-driven ideas.
